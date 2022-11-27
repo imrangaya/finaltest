@@ -5,3 +5,6 @@
 ## Picture dispaly
 
 ![Google](image/imageofgoogle.png)
+
+## BodhGaya 
+![BodhGaya](image/bodhgaya.png)
