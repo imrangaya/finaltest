@@ -4,4 +4,4 @@
   This is a test
 ## Picture dispaly
 
-![Google](../imageofgoogle.png)
+![Google](image/imageofgoogle.png)
